@@ -1,2 +1,1 @@
-1.这是一个开源项目
-2.主要业务是关于程序员
+1.this is a open source project
